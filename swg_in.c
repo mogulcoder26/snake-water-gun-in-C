@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
+// my main program to use random number generator in C to create a project.
 int main()
 {
     int compturn, a;
